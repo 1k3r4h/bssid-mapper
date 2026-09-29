@@ -18,7 +18,9 @@ Sudo apt update
 sudo apt upgrade
 
 Paso 2:
+
 Instalar dependencias
+
   sudo apt install python3-opencv
   sudo apt install scapy
   sudo apt install aircrack-ng
