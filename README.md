@@ -12,15 +12,13 @@ Posibilidad de evolucion a un sistema portatil embebido
 Paso a paso
 
 Paso 1:\
-Instalar raspberry pi os lite en la raspberry
-Comprobar que la web cam y adaptador wifi que tenemos funcionan correctamente y son detectados por el sistema
-Sudo apt update
-sudo apt upgrade
+Instalar raspberry pi os lite en la raspberry\
+Comprobar que la web cam y adaptador wifi que tenemos funcionan correctamente y son detectados por el sistema\
+Sudo apt update\
+sudo apt upgrade\
 
-Paso 2:
-
-Instalar dependencias
-
-  sudo apt install python3-opencv
-  sudo apt install scapy
-  sudo apt install aircrack-ng
+Paso 2:\
+Instalar dependencias\
+  sudo apt install python3-opencv \
+  sudo apt install scapy \
+  sudo apt install aircrack-ng \
